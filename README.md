@@ -8,9 +8,11 @@ Unreal 5.4 Project For Convai Demo For AI Conversation
 <h2>API Link : https://convai.com/ </h2>
 
 <h2>To Run This Project You Need </h2> 
-1. Convai Account 
+
+1. Convai Account
 2. You Acc Api Key
 3. Char ID ( As  Each AI Char Have Specific ID Which is provided by convai as you creat AI NPC).
+4. have convai plugin install in you engine.
 
 <h3>Implementation Have : </h3>
 
